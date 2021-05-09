@@ -1,7 +1,7 @@
 *.tex
 *.log
 *.aux
-*.png
+
 *.out
 *.tmp
 *.fdb_latexmk
